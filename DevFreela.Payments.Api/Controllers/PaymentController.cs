@@ -13,9 +13,19 @@ namespace DevFreela.Payments.Api.Controllers
         {
             _paymentService = paymentService;
         }
-        [HttpPost]
-        public async Task<IActionResult> Post([FromBody]PaymentInfoInputModel paymentInfo)
+        [HttpGet]
+        public IActionResult Get()
         {
+            return Ok("Staus: on");
+        }
+        [HttpPost]
+        public async Task<IActionResult> Post(int id, [FromBody]PaymentInfoInputModel paymentInfo)
+        {
+            if(paymentInfo.Id == 0)
+            {
+                paymentInfo.Id = id;
+            }
+
             var result = await _paymentService.Process(paymentInfo);
 
             if (!result)

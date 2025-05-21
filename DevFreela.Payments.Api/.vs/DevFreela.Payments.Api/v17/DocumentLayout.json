@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|c:\\users\\docto\\projetos\\devfreela-payment\\devfreela.payments.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|c:\\users\\docto\\projetos\\devfreela-payment\\devfreela.payments.api\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|solutionrelative:controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|c:\\users\\docto\\projetos\\devfreela-payment\\devfreela.payments.api\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|solutionrelative:services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|c:\\users\\docto\\projetos\\devfreela-payment\\devfreela.payments.api\\models\\inputs\\paymentinfoinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|solutionrelative:models\\inputs\\paymentinfoinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|c:\\users\\docto\\projetos\\devfreela-payment\\devfreela.payments.api\\models\\paymentapprovedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|solutionrelative:models\\paymentapprovedintegrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|c:\\users\\docto\\projetos\\devfreela-payment\\devfreela.payments.api\\services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|solutionrelative:services\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|c:\\users\\docto\\projetos\\devfreela-payment\\devfreela.payments.api\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|solutionrelative:services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|c:\\users\\docto\\projetos\\devfreela-payment\\devfreela.payments.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|c:\\users\\docto\\projetos\\devfreela-payment\\devfreela.payments.api\\consumers\\processpaymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|solutionrelative:consumers\\processpaymentconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|c:\\users\\docto\\projetos\\devfreela-payment\\devfreela.payments.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|c:\\users\\docto\\projetos\\devfreela-payment\\devfreela.payments.api\\devfreela.payments.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|solutionrelative:devfreela.payments.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|c:\\users\\docto\\projetos\\devfreela-payment\\devfreela.payments.api\\models\\inputs\\paymentinfoinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|solutionrelative:models\\inputs\\paymentinfoinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|c:\\users\\docto\\projetos\\devfreela-payment\\devfreela.payments.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4562D516-52C3-4608-959E-C120BAE54F0C}|DevFreela.Payments.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,24 +50,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "PaymentApprovedIntegrationEvent.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\Models\\PaymentApprovedIntegrationEvent.cs",
+              "RelativeDocumentMoniker": "Models\\PaymentApprovedIntegrationEvent.cs",
+              "ToolTip": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\Models\\PaymentApprovedIntegrationEvent.cs",
+              "RelativeToolTip": "Models\\PaymentApprovedIntegrationEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:14:56.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProcessPaymentConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\Consumers\\ProcessPaymentConsumer.cs",
+              "RelativeDocumentMoniker": "Consumers\\ProcessPaymentConsumer.cs",
+              "ToolTip": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\Consumers\\ProcessPaymentConsumer.cs",
+              "RelativeToolTip": "Consumers\\ProcessPaymentConsumer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwFQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T00:27:35.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T06:21:15.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DevFreela.Payments.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\DevFreela.Payments.Api.csproj",
+              "RelativeDocumentMoniker": "DevFreela.Payments.Api.csproj",
+              "ToolTip": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\DevFreela.Payments.Api.csproj",
+              "RelativeToolTip": "DevFreela.Payments.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T06:16:13.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T06:15:08.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
               "ToolTip": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwB4AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T02:57:42.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PaymentService.cs",
               "DocumentMoniker": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\Services\\PaymentService.cs",
               "RelativeDocumentMoniker": "Services\\PaymentService.cs",
@@ -64,13 +145,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "PaymentInfoInputModel.cs",
               "DocumentMoniker": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\Models\\Inputs\\PaymentInfoInputModel.cs",
               "RelativeDocumentMoniker": "Models\\Inputs\\PaymentInfoInputModel.cs",
               "ToolTip": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\Models\\Inputs\\PaymentInfoInputModel.cs",
               "RelativeToolTip": "Models\\Inputs\\PaymentInfoInputModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T02:52:28.189Z",
               "EditorCaption": ""
@@ -90,28 +171,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PaymentController.cs",
               "DocumentMoniker": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\Controllers\\PaymentController.cs",
               "RelativeDocumentMoniker": "Controllers\\PaymentController.cs",
               "ToolTip": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\Controllers\\PaymentController.cs",
               "RelativeToolTip": "Controllers\\PaymentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA5wBUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T02:48:47.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DevFreela.Payments.Api",
-              "DocumentMoniker": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\DevFreela.Payments.Api.csproj",
-              "RelativeDocumentMoniker": "DevFreela.Payments.Api.csproj",
-              "ToolTip": "C:\\Users\\docto\\projetos\\devfreela-payment\\DevFreela.Payments.Api\\DevFreela.Payments.Api.csproj",
-              "RelativeToolTip": "DevFreela.Payments.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-20T02:48:13.106Z",
               "EditorCaption": ""
             }
           ]

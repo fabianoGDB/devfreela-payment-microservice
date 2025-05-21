@@ -32,3 +32,4 @@ C:\Users\docto\projetos\devfreela-payment\DevFreela.Payments.Api\obj\Debug\net5.
 C:\Users\docto\projetos\devfreela-payment\DevFreela.Payments.Api\obj\Debug\net5.0\DevFreela.Payments.Api.pdb
 C:\Users\docto\projetos\devfreela-payment\DevFreela.Payments.Api\obj\Debug\net5.0\DevFreela.Payments.Api.genruntimeconfig.cache
 C:\Users\docto\projetos\devfreela-payment\DevFreela.Payments.Api\obj\Debug\net5.0\ref\DevFreela.Payments.Api.dll
+C:\Users\docto\projetos\devfreela-payment\DevFreela.Payments.Api\bin\Debug\net5.0\RabbitMQ.Client.dll
